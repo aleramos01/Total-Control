@@ -2,7 +2,7 @@
 export type Locale = 'pt-BR' | 'en-US' | 'zh-CN' | 'ru-RU';
 
 const pt = {
-    header_title: 'Controle de Gastos com Gemini',
+    header_title: 'Total Control',
     header_subtitle: 'Suas finanças pessoais, simplificadas.',
     income: 'Receitas',
     expenses: 'Despesas',
