@@ -1,0 +1,5 @@
+{
+  "name": "Total Control Financial",
+  "description": "Um aplicativo CRUD para registrar receitas e despesas com classificação automática de transações usando a API Gemini. Acompanhe suas finanças pessoais de forma inteligente e sem esforço.",
+  "requestFramePermissions": []
+}
